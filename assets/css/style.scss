@@ -1,6 +1,20 @@
 ---
 ---
 
+$header-bg-color: #1e6bb8;
+$header-bg-color-secondary: #7EA7D3;
+
+$body-link-color: #7EA7D3;
+$blockquote-text-color: #819198;
+
+$code-text-color: #494D4E;
+
+$section-headings-color: #1e6bb8 !default;
+$body-text-color: #606c71 !default;
+$body-link-color: #1e6bb8 !default;
+$blockquote-text-color: #819198 !default;
+
+
 @import "{{ site.theme }}";
 
 .circular--square {
