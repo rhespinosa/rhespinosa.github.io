@@ -14,3 +14,9 @@ Due to the importance of delivering the right product or service, Raul has under
 
 Podcast - [En teoría](https://www.enteoria.com)  
 Monterrey's Golang user group - [Jorongo.io](https://jorongo.io)
+
+## Acknowledgments
+
+I have to start by thanking my incredible wife, Silvia Veronica. Thank you so much, dear, for all your support and wise words. 
+
+I dedicate my life's work to my daughter, a tiny 2-year old unreasonable creature that brings me to hope every day and teaches me that life could be a fun place.  
