@@ -12,5 +12,5 @@ Due to the importance of delivering the right product or service, Raul has under
 
 ## Personal Projects 
 
-Podcast - enteoria.com 
-Monterrey's Golang user group - jorongo.io 
+Podcast - [En teoría](https://www.enteoria.com)  
+Monterrey's Golang user group - [Jorongo.io](https://jorongo.io)
